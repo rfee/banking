@@ -6,6 +6,7 @@ Stocks and Shares Program
 Many thanks for your interesting specification. I am not sure exactly what you are looking
 for so I have added more comments to the code than I normally would. I believe variable, 
 class and method names should explain the ‘What’, the code the ‘How’ and comments the ‘Why’.
+
 I had wondered if the specification was also a test to see if the developer was up to speed 
 with Java 8 streams.  I have included some examples of stream usage but I think in my case
 the non-stream version were more readable with a method for each equation.  The commented 
